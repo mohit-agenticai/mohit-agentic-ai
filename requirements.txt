@@ -1,0 +1,11 @@
+streamlit>=1.24
+supabase>=1.0.0
+python-dotenv
+requests
+pandas
+# Optional / conditional libraries
+# langchain_groq (if using Groq chat integrations)
+# langchain-community (if using DuckDuckGoSearchRun tool)
+
+# Add your LLM client here if required (openai, etc.)
+# openai>=0.27.0

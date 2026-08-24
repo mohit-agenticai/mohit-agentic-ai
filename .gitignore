@@ -1,0 +1,13 @@
+__pycache__/
+.env
+.env.local
+.vscode/
+*.pyc
+.DS_Store
+
+# Streamlit uploads/cache
+.streamlit
+
+# Local development artifacts
+venv/
+*.sqlite3
